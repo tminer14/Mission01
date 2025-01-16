@@ -47,6 +47,8 @@ internal class Program
             System.Console.WriteLine(i + ":" + new string('*', roundedPercent));
 
         }
+        System.Console.WriteLine("\nThank you for using the dice roll simulator. Goodbye!");
+
 
 
 
